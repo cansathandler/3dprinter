@@ -3,7 +3,7 @@ xyz ダヴィンチpro 3 in 1
 ソフトウェア
 https://www.xyzprinting.com/ja-JP/software-series/DESIGN/xyzmaker-suite
 から XYZ ware Pro をダウンロード
-使い方: XYZware のユーザーズマニュアルをダウンロード インターネットに落ちています。
+使い方: XYZware のユーザーズマニュアルをダウンロードする。
 
 対応材料
 PLA / 抗菌性PLA / ABS / タフPLA / PETG
